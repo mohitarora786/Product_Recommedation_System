@@ -1,0 +1,599 @@
+{
+  "head": {
+          "vars": [
+              "product",
+              "name",
+              "imageURL",
+              "badgeURL",
+              "price",
+              "productURL",
+              "fullOverview",
+              "productAverageScore",
+              "bassScore",
+              "microphoneScore",
+              "comfortScore",
+              "soundQualityScore",
+              "ANC_Score",
+              "batteryLifeScore",
+              "connectivityScore",
+              "designScore",
+              "durabilityScore",
+              "featureScore",
+              "highsScore",
+              "isolationScore",
+              "midrangeScore",
+              "portabilityScore",
+              "valueScore",
+              "productPro",
+              "productCon",
+              "allBestListNames",
+              "allBestListURLs",
+              "finalScore"
+          ]
+      },
+      "results": {
+          "bindings": [
+              {
+                  "product": {
+                      "type": "uri",
+                      "value": "tag:stardog:designer:ProductRecommendation:data:Headphone:2094"
+                  },
+                  "name": {
+                      "type": "literal",
+                      "value": "Sony WH-1000XM5"
+                  },
+                  "imageURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/5715/Sony-WH-1000XM5.jpg"
+                  },
+                  "badgeURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/8431/sg2023_editors_choice.png"
+                  },
+                  "price": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "399.0"
+                  },
+                  "productURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "http://tyvm.ly/nr651"
+                  },
+                  "fullOverview": {
+                      "type": "literal",
+                      "value": "The predecessors to the Sony WH-1000XM5 were king of the hill, and this new headphone takes that crown. With new drivers, features, and design, the Sony WH-1000XM5 is an intriguing set of headphones among the flagship active noise cancelling (ANC) devices on the market. It excels in travel or at the office, in particular."
+                  },
+                  "productAverageScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.844714"
+                  },
+                  "bassScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.6"
+                  },
+                  "microphoneScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "7.5"
+                  },
+                  "comfortScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.8"
+                  },
+                  "soundQualityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.6"
+                  },
+                  "ANC_Score": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.4"
+                  },
+                  "connectivityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.0"
+                  },
+                  "designScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "7.3"
+                  },
+                  "durabilityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "6.7"
+                  },
+                  "featureScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.2"
+                  },
+                  "midrangeScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.6"
+                  },
+                  "portabilityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "7.5"
+                  },
+                  "valueScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.4"
+                  },
+                  "productPro": {
+                      "type": "literal",
+                      "value": "ANC performance | Outstanding microphone | App features, including custom EQ | Bluetooth 5.2 with SBC, AAC, LDAC, and wired connectivity options | Bluetooth multipoint | Find My Device enabled"
+                  },
+                  "productCon": {
+                      "type": "literal",
+                      "value": "Price | No IP rating"
+                  },
+                  "allBestListNames": {
+                      "type": "literal",
+                      "value": "Best headphones for bass, Best noise canceling headphones, Best noise canceling headphones for airplanes, Best noise canceling headphones for work"
+                  },
+                  "allBestListURLs": {
+                      "type": "literal",
+                      "value": "https://www.soundguys.com/best-headphones-for-bass-9605/, https://www.soundguys.com/best-noise-cancelling-headphones-5220/, https://www.soundguys.com/best-noise-cancelling-headphones-for-airplane-84923/, https://www.soundguys.com/best-noise-cancelling-headphones-for-work-76177/"
+                  },
+                  "finalScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.844714"
+                  }
+              },
+              {
+                  "product": {
+                      "type": "uri",
+                      "value": "tag:stardog:designer:ProductRecommendation:data:Earbud:4817"
+                  },
+                  "name": {
+                      "type": "literal",
+                      "value": "Sony WF-1000XM5"
+                  },
+                  "imageURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/8221/Sony-WF-1000XM5.jpg"
+                  },
+                  "badgeURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/8431/sg2023_editors_choice.png"
+                  },
+                  "price": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "299.99"
+                  },
+                  "productURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "https://www.amazon.com/dp/B0C33XXS56?tag=at88-20"
+                  },
+                  "fullOverview": {
+                      "type": "literal",
+                      "value": "The Sony WF-1000XM5 takes notes from the success of its predecessor and runs with it. Featuring a more comfortable design, outstanding ANC performance, and fantastic battery life, they have secured their place as one of the best noise canceling earbuds on the market."
+                  },
+                  "productAverageScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.796231"
+                  },
+                  "bassScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.6"
+                  },
+                  "comfortScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.0"
+                  },
+                  "soundQualityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.7"
+                  },
+                  "ANC_Score": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.8"
+                  },
+                  "batteryLifeScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.0"
+                  },
+                  "designScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "7.0"
+                  },
+                  "durabilityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.0"
+                  },
+                  "featureScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.0"
+                  },
+                  "midrangeScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.8"
+                  },
+                  "portabilityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.0"
+                  },
+                  "valueScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "6.0"
+                  },
+                  "productPro": {
+                      "type": "literal",
+                      "value": "Excellent ANC and Isolation | Comfortable | SBC, AAC, and LDAC support | Great app support | Great battery life"
+                  },
+                  "productCon": {
+                      "type": "literal",
+                      "value": "Price | Default sound too bassy"
+                  },
+                  "allBestListNames": {
+                      "type": "literal",
+                      "value": "Best wireless earbuds for iPhone, Best noise canceling headphones for work"
+                  },
+                  "allBestListURLs": {
+                      "type": "literal",
+                      "value": "https://www.soundguys.com/best-noise-cancelling-headphones-for-work-76177/, https://www.soundguys.com/best-iphone-earbuds-19070/"
+                  },
+                  "finalScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.796231"
+                  }
+              },
+              {
+                  "product": {
+                      "type": "uri",
+                      "value": "tag:stardog:designer:ProductRecommendation:data:Headphone:2736"
+                  },
+                  "name": {
+                      "type": "literal",
+                      "value": "Master & Dynamic MW60"
+                  },
+                  "imageURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/3637/Master-&-Dynamic-MW60.jpg"
+                  },
+                  "price": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "549.0"
+                  },
+                  "productURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "https://tinyurl.com/pey4tfn3"
+                  },
+                  "productAverageScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.746"
+                  },
+                  "bassScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.7"
+                  },
+                  "microphoneScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.5"
+                  },
+                  "soundQualityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.9"
+                  },
+                  "batteryLifeScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.6"
+                  },
+                  "designScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.8"
+                  },
+                  "durabilityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.7"
+                  },
+                  "midrangeScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.0"
+                  },
+                  "portabilityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.4"
+                  },
+                  "valueScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.0"
+                  },
+                  "productPro": {
+                      "type": "literal",
+                      "value": "Great design | Good sound quality | Great Bluetooth connection"
+                  },
+                  "productCon": {
+                      "type": "literal",
+                      "value": "Sound leakage is a problem | Not too snug on the head"
+                  },
+                  "allBestListNames": {
+                      "type": "literal",
+                      "value": ""
+                  },
+                  "allBestListURLs": {
+                      "type": "literal",
+                      "value": ""
+                  },
+                  "finalScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.746"
+                  }
+              },
+              {
+                  "product": {
+                      "type": "uri",
+                      "value": "tag:stardog:designer:ProductRecommendation:data:Earbud:5255"
+                  },
+                  "name": {
+                      "type": "literal",
+                      "value": "Master & Dynamic MW09"
+                  },
+                  "imageURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/8869/Master-&-Dynamic-MW09.jpg"
+                  },
+                  "badgeURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/8431/sg2023_editors_choice.png"
+                  },
+                  "price": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "349.0"
+                  },
+                  "productURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "http://tyvm.ly/3DuL"
+                  },
+                  "fullOverview": {
+                      "type": "literal",
+                      "value": "If you are looking for premium wireless earbuds with an eye-catching design, the Master & Dynamic MW09 is a good option."
+                  },
+                  "productAverageScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.738857"
+                  },
+                  "bassScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.8"
+                  },
+                  "comfortScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.0"
+                  },
+                  "soundQualityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.3"
+                  },
+                  "ANC_Score": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.3"
+                  },
+                  "batteryLifeScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.6"
+                  },
+                  "connectivityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.0"
+                  },
+                  "designScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.0"
+                  },
+                  "durabilityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.7"
+                  },
+                  "featureScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.5"
+                  },
+                  "midrangeScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.8"
+                  },
+                  "portabilityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.5"
+                  },
+                  "valueScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "6.0"
+                  },
+                  "productPro": {
+                      "type": "literal",
+                      "value": "High-quality design and build | Bluetooth 5.4 | ANC"
+                  },
+                  "productCon": {
+                      "type": "literal",
+                      "value": "Expensive | Heavy"
+                  },
+                  "allBestListNames": {
+                      "type": "literal",
+                      "value": ""
+                  },
+                  "allBestListURLs": {
+                      "type": "literal",
+                      "value": ""
+                  },
+                  "finalScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.738857"
+                  }
+              },
+              {
+                  "product": {
+                      "type": "uri",
+                      "value": "tag:stardog:designer:ProductRecommendation:data:Earbud:146"
+                  },
+                  "name": {
+                      "type": "literal",
+                      "value": "Jabra Elite 3"
+                  },
+                  "imageURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/5647/Jabra-Elite-3.jpg"
+                  },
+                  "price": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "79.0"
+                  },
+                  "productURL": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#anyURI",
+                      "type": "literal",
+                      "value": "https://geni.us/uyyPq"
+                  },
+                  "fullOverview": {
+                      "type": "literal",
+                      "value": "The Jabra Elite 3 is the company's cheapest true wireless product to date. The inclusion of aptX is rare under $100, and the earbuds come close to nailing fundamentals like audio output and isolation, but is that enough to make it stand out?"
+                  },
+                  "productAverageScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.729231"
+                  },
+                  "bassScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.6"
+                  },
+                  "comfortScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.5"
+                  },
+                  "soundQualityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.8"
+                  },
+                  "batteryLifeScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "6.5"
+                  },
+                  "connectivityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "7.0"
+                  },
+                  "designScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "7.0"
+                  },
+                  "durabilityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.5"
+                  },
+                  "featureScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.0"
+                  },
+                  "midrangeScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.9"
+                  },
+                  "portabilityScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.0"
+                  },
+                  "valueScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "8.0"
+                  },
+                  "productPro": {
+                      "type": "literal",
+                      "value": "Price | Sound quality | Battery life | aptX and SBC | IP55 rating"
+                  },
+                  "productCon": {
+                      "type": "literal",
+                      "value": "No AAC | Mediocre mic"
+                  },
+                  "allBestListNames": {
+                      "type": "literal",
+                      "value": "Best workout earbuds"
+                  },
+                  "allBestListURLs": {
+                      "type": "literal",
+                      "value": "https://www.soundguys.com/best-workout-earbuds-2719/"
+                  },
+                  "finalScore": {
+                      "datatype": "http://www.w3.org/2001/XMLSchema#float",
+                      "type": "literal",
+                      "value": "9.729231"
+                  }
+              }
+          ]
+      }
+  }
